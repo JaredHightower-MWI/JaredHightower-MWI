@@ -1,6 +1,6 @@
 <img src="https://www.notion.so/image/https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Ffs%2F22b22287602523.5dbd29081561d.gif?table=block&id=ffd1e714-db4f-41d6-a170-b027b738bef7&spaceId=65994e00-375b-4566-ba93-c12ca2a06636&userId=8ab73d9d-b809-48fc-ba3a-40e2d255c9e5&cache=v2"/>
 
-## Hi 👋, I'm Jared
+## Hi 👋🏽, I'm Jared
 
 <h4>
 I'm a passionate front-end developer who loves to build great products. I'm constantly learning, pushing myself to become better so that I can provide high-quality development services for start-ups—or companies with big ideas!
