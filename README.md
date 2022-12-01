@@ -12,7 +12,7 @@ I'm a passionate front-end developer who loves to build great products. I'm cons
 
 - 👯 I’m looking to collaborate on **more open source projects**
 
-- 💬 Ask me about **Next JS, React, Unit Test, E2E Test, Typescript, and React Recoil**
+- 💬 Ask me about **My favorite places to eat in Hawaii**
 
 - ⚡ Fun fact **before getting into programming I breakdance for 8 years**
 
