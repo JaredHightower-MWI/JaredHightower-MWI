@@ -24,7 +24,7 @@ I'm a passionate front-end developer who loves to build great products. I'm cons
 
 ### Primary Skills
 
-[![Primary Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,jest,vscode,git,styledcomponents,vercel,github)](https://skillicons.dev)
+[![Primary Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,figma,jest,vscode,git,styledcomponents,vercel,github&perline=3)](https://skillicons.dev)
 
 ### Tools I have worked with
 [![Primary Skills](https://skillicons.dev/icons?i=angular,azure,firebase,python,gcp,materialui,tailwind,emotion,gitlab,graphql,solidity)](https://skillicons.dev)
